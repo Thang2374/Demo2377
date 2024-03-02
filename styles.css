@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+    padding: 40px;
+   
+}
+
+.section-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+
+}
+
+
+.name {color: #0e2452;
+
+}
+.profile {font-size: 20px;}
+
+.modau {display: inline-block;}
+
+.ketthuc {  
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+}
+
+.hinhanh {
+    position: absolute;
+    top: 70px;
+    right: 40px;
+}   
+.muctieu {font-size: 20px;}
+
+.hocvan {font-size: 20px;
+margin-bottom: 40px;           
+}
+
+.hocvan .first {display: flex;
+border-bottom: 1px solid #CCCCCC;    
+}
+
+
+.hocvan .first p {margin-right: 100px;}
+
+.hocvan .second {display: flex;
+border-bottom: 1px solid #CCCCCC; 
+}
+
+.hocvan .second p {margin-right: 100px;}
+    
+.kinhnghiem {font-size: 20px;
+margin-bottom: 40px;
+}
+
+.kinhnghiem .first {display: inline-block;
+border-bottom: 1px solid #CCCCCC;
+}
+
+
+.kinhnghiem .second {display: flex;
+border-bottom: 1px solid #CCCCCC; 
+}
+
+.kinhnghiem .second p {margin-right: 100px;}
+
+.kinhnghiem .first .loi {margin-left: 250px;
+margin-top: -40px;
+    
+}
+
+.hoatdong {font-size: 20px;
+margin-bottom: 40px;}
+
+.hoatdong .first {display: flex;
+border-bottom: 1px solid #CCCCCC;    
+}
+    
+    
+.hoatdong .first p {margin-right: 100px;}
+    
+.hoatdong .second {display: flex;
+border-bottom: 1px solid #CCCCCC; 
+}
+    
+.hoatdong .second p {margin-right: 100px;}
+
+.kynang {font-size: 20px;
+margin-bottom: 40px;}
+
+.kynang .first {display: flex;
+border-bottom: 1px solid #CCCCCC;    
+}
+        
+        
+.kynang .first p {margin-right: 152px;}
+        
+.kynang .second {display: flex;
+border-bottom: 1px solid #CCCCCC; 
+}
+        
+.kynang .second p {margin-right: 155px;}
+
+.kynang .third {display: flex;
+border-bottom: 1px solid #CCCCCC;    
+}
+        
+        
+.kynang .third p {margin-right: 182px;}
+        
+.kynang .fourth {display: flex;
+border-bottom: 1px solid #CCCCCC; 
+}
+        
+.kynang .fourth p {margin-right: 142px;}
+
+.thanhtuu {font-size: 20px;}
+
+.thanhtuu .first {display: flex;
+border-bottom: 1px solid #CCCCCC;}
+
+.thanhtuuu .second {display: flex;
+border-bottom: 1px solid #CCCCCC;}
+
+.thanhtuu .first p{margin-right: 205px;}
+.thanhtuu .second .loi p{margin-left: 250px;
+margin-top: -40px;}
+
+.sothich {font-size: 20px;}
+
+.duan {font-size: 20px;}
+
+.lienhe{font-size: 20px;
+border-bottom: 1px solid #CCCCCC;}
+
+.lienhe a {font-size: 20px;
+        text-decoration: none;
+        color: blue; 
+}
